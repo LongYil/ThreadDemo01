@@ -61,6 +61,7 @@ public class ThreadDemo01 {
                 }
             }
         },"BB").start();
+        System.out.println("111111");
 
     }
 }
